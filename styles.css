@@ -1,0 +1,15 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header h1{
+    font-size: 40px;
+}
+
+body {
+    background-color: #889a8f;
+}
+
+/* *{
+    border: 2px solid;
+} */
